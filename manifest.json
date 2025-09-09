@@ -1,0 +1,19 @@
+{
+  "name": "feature-email-export",
+  "label": "Feature Email Export",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.16.0",
+  "author": "Collin Hayes",
+  "description": "Configure email export using a feature data source. Exports as eml file",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "translatedLocales": ["en"],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
